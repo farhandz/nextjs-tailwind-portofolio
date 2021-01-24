@@ -1,6 +1,6 @@
 import React from 'react'
-import Slider from "react-slick";
-import Particles from "react-particles-js";
+import Typewriter from "typewriter-effect";
+
 function MeComponent() {
   const settings = {
     dots: true,
@@ -16,8 +16,16 @@ function MeComponent() {
         </div>
         <div className="mt-3 mt-10">
           <h1 className="text-5xl font-yusei text-white">
-            Farhan Ammar Dzakwan
+            <Typewriter
+              options={{
+                strings: ["Farhan", "Ammar", "Dzakwan"],
+                autoStart: true,
+                loop: true,
+              }}
+             
+            />
           </h1>
+          ;
           <h1 className="text-indigo-700 text-xl  mt-4">
             FullStack Web Developer
           </h1>
