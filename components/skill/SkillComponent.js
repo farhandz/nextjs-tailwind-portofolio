@@ -6,7 +6,7 @@ function SkillComponent() {
         <div className="bg-white flex flex-col items-center justify-center">
           <img src="/image/porto/aws.png" alt="" />
           <div className="flex items-center mt-2">
-            <h1 className="font-semibold ">Amazon Web Sevice</h1>
+            <h1 className="font-semibold ">AWS</h1>
             <i className="text-indigo-500 far fa-check-circle ml-2"></i>
           </div>
         </div>

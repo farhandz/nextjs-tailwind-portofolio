@@ -6,7 +6,7 @@ function Blog() {
         <>
             <Layout>
                 <div className="h-screen m-auto flex justify-center items-center">
-                    <div className="">
+                    <div className="text-center">
                         <h1 className="text-5xl text-white font-bold">Coming Soon.....</h1>
                     </div>
                 </div>
