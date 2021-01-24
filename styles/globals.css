@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&display=swap');
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background: url('../public//image//bg-aja.jpg');
-
+  background: #000000
 }
 
 a {
@@ -17,13 +18,39 @@ a {
   box-sizing: border-box;
 }
 
+.bg-coding {
+  background: url('../public//image/coding.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.section-info-profile {
+  background: #ffffff;
+  height: 30vh;
+  border-radius: 20px;
+}
+
+.info-wa {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+
+.movivation-info {
+  background:  #ffffff;
+  border-top-right-radius: 5px;
+  height: 30vh;
+}
+
+
 .particle-section {
   position: "absolute";
   top: 200;
   left: 0;
   width: "100%";
   height: "100%";
-  z-index:  1
+  z-index: 1
 }
 
 .font-yusei {
@@ -34,6 +61,10 @@ a {
   font-family: 'IBM Plex Serif', serif;
 }
 
+
+.font-eb {
+  font-family: 'EB Garamond', serif;
+}
 
 
 .hello {

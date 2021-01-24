@@ -7,7 +7,7 @@ function Navbar() {
     const [show, setShow] = React.useState(false)
     return (
       <>
-        <div className="bg-indigo-700 sticky top-0">
+        <div className="bg-indigo-700 sticky top-0 z-50">
           <div className="flex lg:items-center  flex-col lg:flex-row lg:mx-10">
             <div className="flex justify-between items-center lg:mx-0 mx-2">
               <div

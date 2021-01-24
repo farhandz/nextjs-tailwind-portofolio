@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <div>
-        <Layout title="farhandz || farhan">
+        <Layout title="farhandz">
         <MeComponent />
         </Layout>
       </div>
