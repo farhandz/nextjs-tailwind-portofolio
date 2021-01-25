@@ -33,12 +33,12 @@ a {
 
 .info-wa {
   position: fixed;
-  bottom: 20px;
+  bottom: 40px;
   left: 20px;
 }
 
 .movivation-info {
-  background:  #ffffff;
+  background: #ffffff;
   border-top-right-radius: 5px;
   height: 30vh;
 }
@@ -83,8 +83,11 @@ a {
   text-align: center;
 }
 
+.skill-info  {
+  height: 20vh;
+}
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   .nav-normal {
     transition: all 1.5s;
     position: absolute;

@@ -13,7 +13,6 @@ function PortofolioComponent() {
     };
     return (
       <>
-        <Bounce>
           <div className="my-5 lg:mx-5 mx-2">
             <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
               <div className="bg-white flex flex-col  ">
@@ -184,7 +183,6 @@ function PortofolioComponent() {
               </Fade>
             </div>
           </div>
-        </Bounce>
       </>
     );
 }

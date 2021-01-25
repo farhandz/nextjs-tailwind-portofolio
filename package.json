@@ -17,6 +17,7 @@
     "react-particles-js": "^3.4.1",
     "react-reveal": "^1.2.2",
     "react-slick": "^0.27.14",
+    "slick-carousel": "^1.8.1",
     "tailwindcss": "^2.0.2",
     "typewriter-effect": "^2.17.0"
   }

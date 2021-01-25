@@ -18,11 +18,11 @@ function MeComponent() {
   }
     return (
       <div className="text-center bg-default h-full">
-        <div className="bg-coding flex flex-col items-center justify-center ">
+        <div className="bg-coding flex flex-col items-center  justify-center ">
           <Spin>
             <img className="mt-10" src="/image/Ellipse 1.png" alt="" />
           </Spin>
-          <div className="section-info-profile w-full ">
+          <div className="section-info-profile w-full flex flex-col justify-center ">
             <div className="flex justify-center flex-col">
               <i className="fas fa-laptop-code text-black fa-3x mt-2"></i>
               <h3 className="font-bold text-4xl my-2 font-eb">
@@ -75,15 +75,12 @@ function MeComponent() {
           </div>
         </Fade>
         <Fade left>
-          <div className="bg-black h-full mt-2">
-            <div className="flex justify-center gap-2  mx-28 py-5">
-              <img src="/image/porto/node.png" alt="" />
+          <div className=" flex justify-center bg-black mt-2 skill-info">
+            <div className="flex justify-center gap-2 justify-center items-center  mx-28 py-5">
+              <img src="/image/porto/nest.png" alt="" />
               <img src="/image/porto/expess.png" alt="" />
               <img src="/image/porto/react.png" alt="" />
               <img src="/image/porto/redux.png" alt="" />
-              <img src="/image/porto/mongo.png" alt="" />
-              <img src="/image/porto/nest.png" alt="" />
-              <img src="/image/porto/typescript.png" alt="" />
             </div>
           </div>
         </Fade>
