@@ -40,7 +40,7 @@ function PortofolioComponent() {
                 <div className="bg-white flex flex-col  ">
                   <img src="/image/portofolio/pewworld.png" alt="" />
                   <div>
-                    <Fade right>
+                    <Fade leftt>
                       <h2 className="lg:mx-5 lg:my-2 font-yusei">
                         Peworld App is Aplication for jobseker like a linkedin.
                         Peworld app has feature sorting based on joob seeker is
@@ -58,7 +58,7 @@ function PortofolioComponent() {
                   </div>
                 </div>
               </Fade>
-              <Fade right>
+              <Fade leftt>
                 <div className="bg-white flex flex-col  ">
                   <img src="/image/portofolio/chat.png" alt="" />
                   <div>
