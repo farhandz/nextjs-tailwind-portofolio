@@ -181,6 +181,18 @@ function PortofolioComponent() {
                   </div>
                 </div>
               </Fade>
+              <Fade left>
+                <div className="bg-white flex flex-col  ">
+                  <img src="/image/portofolio/pos-app-v2.png" alt="" />
+                  <div>
+                    <Fade left>
+                      <h2 className="g:mx-5 lg:my-2 font-yusei">
+                        POS Aplication
+                      </h2>
+                    </Fade>
+                  </div>
+                </div>
+              </Fade>
             </div>
           </div>
       </>
