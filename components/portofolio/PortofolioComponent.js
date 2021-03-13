@@ -187,7 +187,7 @@ function PortofolioComponent() {
                   <div>
                     <Fade left>
                       <h2 className="g:mx-5 lg:my-2 font-yusei">
-                        POS Aplication
+                        POS app is aplication for management stock and management outlet / cashier pos apclication has build by environtment javascript such as vue js , laravel and mysql
                       </h2>
                     </Fade>
                   </div>
