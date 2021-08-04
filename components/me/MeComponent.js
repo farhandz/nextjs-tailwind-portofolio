@@ -56,11 +56,10 @@ function MeComponent() {
             <p className="mt-4 font-ibm mt-10 lg:mx-32 my-10  text-white font-semibold text-xl">
               Hello, Let me introduce my self, my name farhan ammar. I'm from
               Tegal, Central java , Indonesia. I'm a web developer escpesially
-              in fullstack javascript developer. I was graduated from
-              Arkademy(Tech Academy) in 2020. Recently im work as backend
+              in fullstack javascript developer.Recently im work as backend
               developer at one of start up company in indonesia. My favourite
               stack is nest js for backend, react js for frontend and mongodb
-              for database. Recently i was learn flutter for mobile development
+              for database. Now im a flutter development anthusiast
             </p>
           </Fade>
         </div>
