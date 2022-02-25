@@ -32,7 +32,7 @@ function MeComponent() {
             <h1 className="font-ibm">❝Lets Play With Code❞</h1>
             <div>
               <Bounce>
-                <h1 className="font-ibm">Tegal, Central Java, Indonesia</h1>
+                <h1 className="font-ibm">Software Engineer, base on Jakarta</h1>
               </Bounce>
               <p>
                 Backend Developer, Software Engineer{" "}
@@ -55,11 +55,10 @@ function MeComponent() {
           <Fade left>
             <p className="mt-4 font-ibm mt-10 lg:mx-32 my-10  text-white font-semibold text-xl">
               Hello, Let me introduce my self, my name farhan ammar. I'm from
-              Tegal, Central java , Indonesia. I'm a web developer escpesially
-              in fullstack javascript developer.Recently im work as backend
+              Tegal, Central java , Indonesia. I'm a  fullstack javascript developer.Recently im work as backend
               developer at one of start up company in indonesia. My favourite
               stack is nest js for backend, react js for frontend and mongodb
-              for database. Now im a flutter development anthusiast
+              for database. And Flutter for mobile development.Fast Learning & Fast Adapted
             </p>
           </Fade>
         </div>
